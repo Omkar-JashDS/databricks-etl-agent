@@ -56,4 +56,3 @@ flowchart TD
 
     A --> B
     G -- Approved --> H
-    ```
